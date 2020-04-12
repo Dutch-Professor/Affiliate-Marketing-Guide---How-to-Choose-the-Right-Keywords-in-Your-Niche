@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+Keyword Research Made Easy
+Find relevant, low competition keywords for your
+website, blog or business.
+This keyword tool helped me multiple ways to find related, niche relevant
+keywords in any niche https://bit.ly/2xlMcKQ
+Keyword is a very important term in affiliate marketing. If you've been in affiliate marketing for some
+time now, you must have stumble across the term keyword research and how important it is.
+Keyword research is the foundation of any good website.
 
-You can use the [editor on GitHub](https://github.com/Dutch-Professor/Affiliate-Marketing-Guide---How-to-Choose-the-Right-Keywords-in-Your-Niche/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In case you don't know what keywords are all about, here is a short explanation. Keywords are not
+different from words and phrases. They're those words that people type into search engines when
+searching for information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the years, billions of people search for information using Google. And without knowing it, a lot
+of people search for information using the same or similar keywords. For example, a person that
+wants to learn how to make money online may be searching for terms like "how to make money
+online", "free affiliate marketing guide", or "make money online fast". A lot of other people
+elsewhere can still be using the same keywords as they search the internet.
 
-### Markdown
+One tool that can help you to find those words people use when searching for information online is
+the Google keyword tool. This tool enables you to see the number of monthly searches keywords in
+your niche are getting. While hunting for keywords in your niche, make sure you choose keywords
+that have high number of monthly search volume of about 500 and above (special cases exist, e.g.
+you can target keywords that contain product or author name even if the search volume is low).
+Another important thing is to choose keywords that have commercial intention. These types of
+keywords are called "buyers' keywords" because they will bring buyers to your site and not just
+information seekers. Now let's look at 6 ways of choosing the right keywords for any niche:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Choose Keywords that Contain Product Name: Find and choose keywords that contain the name
+of the product you intend promoting. This is because if somebody is searching for a product name, it
+means that s/he is already on the verge of buying the product. They just need a little more push
+before they finalize their decision.
+2. Choose words that Contain Author Name: This is another good means of finding the keywords
+buyers are using. Just search for the author name in Google keyword tool and the tool will show you
+the keywords people use in conjunction with the author name.
+3. Use Crisis Keywords: People that use crisis keywords are in urgent need to solve a problem or get
+rid of a problem. Such people are on the verge of buying and they're usually ready to buy on impulse.
+This kind of keywords contains words like "get rid of", "eliminate", "fast" etc. Specific examples
+include "get rid of acne now" or "how to lose weight fast" or "eliminate dandruff in one week".
 
-```markdown
-Syntax highlighted code block
+While choosing crisis keywords, make sure that the keyword is related to the product your site is
+selling. Avoid using words that have more than one meaning. For example, a person searching for
+"get rid of skin problems" may be implying dry skin, dandruff, rosacea, or a dozen other problems
+that are not related to the theme of your website. So, it is important to ensure that the keywords you
+target solve the problem and cannot mean something else.
 
-# Header 1
-## Header 2
-### Header 3
+To apply this tip, just go to the Google keyword tool and search for: CRISIS KEYWORD + YOUR NICHE
+KEYWORD. For example, if your niche is health related, do a search for "eliminate dandruff" and
+leave the rest for Google keyword tool.
 
-- Bulleted
-- List
+4. Use Buying Keyphrases: Keywords that contains product names and author names are examples
+of buying keywords. Other examples include keywords that contain words like "buy", "order",
+"purchase", "for sale", "refurbished", "used laptops" etc. People using these keywords are already on
+the verge of buying.
+5. Choose Long Tail Keyphrases: Long tail keywords are phrases that contain more than two words.
+They usually have lower search volume and are easier to rank for in search engines. You should go for
+this kind of keywords because they give better result in terms of sales than more generic head
+keywords.
+6. Browse Forums for Keyword Ideas: The Google keyword tool is good for generating keyword
+ideas, but another good places to look for keyword ideas are forums. If you want to know keywords
+that are associated with a particular niche, forums are the best places to look at. Browse through
+forums in your niche and jot down all the keywords you come across. Then go to Google keyword
+tool and search for each of those keywords. From the result generated by the tool, you'll be able to
+select keywords with high search volume.
 
-1. Numbered
-2. List
+Also, through forums you'll also get to know problems people have and the kind of possible products
+to sell to them.
 
-**Bold** and _Italic_ and `Code` text
+By using the suggestions above, you'll be able to target a lot of keywords buyers are using. This way
+you'll be attracting buyers to your website and not mere free information seekers.
 
-[Link](url) and ![Image](src)
-```
+After acquiring a huge list of keywords, don't forget to check this website for more information
+https://www.keysearch.co/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dutch-Professor/Affiliate-Marketing-Guide---How-to-Choose-the-Right-Keywords-in-Your-Niche/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Credit Article Source: https://EzineArticles.com/expert/Henry_Ikeme/
